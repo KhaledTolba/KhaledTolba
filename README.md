@@ -1,9 +1,5 @@
 # Hi there 👋
   
-
-
-
-## Glad to see you here!  
 I’m Khaled Ahmed full-stack developer currently seeking new opportunities in software development to kick-start my career and gain hands-on experience. continuously expanding my knowledge and sharpening my skills through personal projects and online courses.  
 
 I Open to collaborate on projects or internships that allow me to contribute and grow as a developer. Let's connect and discuss how we can work together! You can reach me via.
@@ -57,11 +53,11 @@ I Open to collaborate on projects or internships that allow me to contribute and
 ## Github Stats  
 <table><tr><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledTolba&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledTolba&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
 </td><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
 </td></tr></table>  
 
