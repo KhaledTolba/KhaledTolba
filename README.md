@@ -21,7 +21,7 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
 
 ## Rapidfire  
-<table style="border: none"><tr><td valign="top" width="50%">
+<table style="border: none"><tr border="none"><td border="none" valign="top" width="50%">
 
 - 🌱 I’m currently learning NodeJS and kubernetes  
   
@@ -51,11 +51,11 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
 
 ## Github Stats  
-<table style="border: none"><tr><td valign="top" width="40%">
+<table border="none"><tr border="none"><td border="none" valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KhaledTolba&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
-</td><td valign="top" width="40%">
+</td><td border="none" valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
