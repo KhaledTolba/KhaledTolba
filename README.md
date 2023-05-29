@@ -21,7 +21,7 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
 
 ## Rapidfire  
-<table border="none"><tr border="none"><td border="none" valign="top" width="50%">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning NodeJS
   
@@ -51,11 +51,11 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
 
 ## Github Stats  
-<table border="none"><tr border="none"><td border="none" valign="top" width="40%">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KhaledTolba&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
 
-</td><td border="none" valign="top" width="40%">
+</td><td valign="top" width="40%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
@@ -65,17 +65,8 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
   
 
-<br/>  
+<br/>
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!--
 **KhaledTolba/KhaledTolba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
