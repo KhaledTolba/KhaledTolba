@@ -2,7 +2,7 @@
   
 I’m Khaled Ahmed full-stack developer currently seeking new opportunities in software development to kick-start my career and gain hands-on experience. continuously expanding my knowledge and sharpening my skills through personal projects and online courses.  
 
-I Open to collaborate on projects or internships that allow me to contribute and grow as a developer. Let's connect and discuss how we can work together! You can reach me via.
+I Open to collaborate on projects or internships that allow me to contribute and grow as a developer. Let's connect and discuss how we can work together! You can reach me via:
 
 <a href="https://linkedin.com/in/khaled-tolba111" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -23,7 +23,7 @@ I Open to collaborate on projects or internships that allow me to contribute and
 ## Rapidfire  
 <table border="none"><tr border="none"><td border="none" valign="top" width="50%">
 
-- 🌱 I’m currently learning NodeJS and kubernetes  
+- 🌱 I’m currently learning NodeJS
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
