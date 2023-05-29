@@ -21,7 +21,7 @@ I Open to collaborate on projects or internships that allow me to contribute and
 
 
 ## Rapidfire  
-<table style="border: none"><tr border="none"><td border="none" valign="top" width="50%">
+<table border="none"><tr border="none"><td border="none" valign="top" width="50%">
 
 - 🌱 I’m currently learning NodeJS and kubernetes  
   
