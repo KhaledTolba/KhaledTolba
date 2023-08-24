@@ -50,21 +50,16 @@ I Open to collaborate on projects or internships that allow me to contribute and
  
 </div>  
 
-<br/>  
+<!-- <br/>  
 
 
 ## Github Stats  
-<table style="border:none !important"><tr><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledTolba&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+![KhaledTolba's Stats](https://github-readme-stats.vercel.app/api?username=KhaledTolba&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-</td><td valign="top" width="40%">
+![KhaledTolba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledTolba&hide_border=true&layout=compact" align="left" style="width: 90%" />
-
-</td></tr></table>  
-
-<br/>  
+<br/>   -->
 
   
 
